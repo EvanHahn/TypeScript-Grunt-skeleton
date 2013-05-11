@@ -1,0 +1,9 @@
+{
+  "name": "Redtask",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-typescript": "*",
+    "grunt-contrib-watch": "*"
+  }
+}
