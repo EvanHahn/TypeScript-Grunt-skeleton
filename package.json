@@ -1,5 +1,5 @@
 {
-  "name": "Redtask",
+  "name": "TypeScript-Grunt-skeleton",
   "version": "0.1.0",
   "devDependencies": {
     "grunt": "*",
